@@ -36,12 +36,27 @@ body{
 
 /* statr copyright */
 
-.copyright
-{
+.copyright{
     
     padding-top:20px;
     background:rgb(61, 58, 58);
     color: rgb(247, 244, 244);
 }
 
+ 
+	#p1{
+	font-size:45px;
+	font-weight: bold;
+	text-align: center;
+	}
+	#p2{
+	font-size:20px;
+	font-weight: bold;
+	text-align: center;
+	}
+	
+	.lead{
+	text-align: center;
+   
+	}
 /* end copyright */
