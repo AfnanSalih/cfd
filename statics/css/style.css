@@ -1,31 +1,49 @@
 body{
-    margin: 0;
+    margin: auto;
     padding: 0;
-    background: #f3eded;  
+    background: #f9f9f9;  
+    font-family: Cairo;
 }
 
-
-
+#nav{
+    background-color:#131413;
+    padding: 10px;
+}
+#logo{
+   
+    margin: 0;
+    padding-left: 60px;
+    
+}
+#logo h1{
+    color: white;
+}
+#navbar{
+    padding: 0;
+    background-color:#131413;
+}
 /* start about-us & google map style */
 
-.about-us h1 
-{
+.about-us h1 {
  text-align: center; 
  padding: 30px;
+}
 
-
+.green-text{
+    color: #33ce3b;
 }
 .about-us  p{
-    text-align: justify;
+    text-align: center;
     padding: 10px;
     color:black;
     font-size: 18px;
+    margin: 0;
     /* font-family: 'Droid Arabic Kufi', serif; */
 }
 #map_container
 {
     padding-top:20px;
-    padding-bottom:20px;
+    padding-bottom:40px;
    
     
 }
@@ -40,7 +58,7 @@ body{
 {
     
     padding-top:20px;
-    background:rgb(61, 58, 58);
+    background-color:#131413;
     color: rgb(247, 244, 244);
 }
 
