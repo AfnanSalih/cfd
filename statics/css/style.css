@@ -64,7 +64,44 @@ body{
 
 /* end copyright */
 
-
-
-
 .market:hover{box-shadow:5px 5px 10px crimson;}/* for the picture of appstore and market play*/
+
+/* start section 1*/
+#p1{
+	font-size:45px;
+	font-weight: bold;
+	text-align: center;
+	
+	}
+	#p2{
+	font-size:20px;
+	font-weight: bold;
+	text-align: center;
+	font-family: Droid Arabic Kufi;
+	color: 	white;
+	}
+	
+	.lead{
+	text-align: center;
+   
+	}
+
+#top-part{
+      
+      background-attachment: fixed;
+	  size: 100%;
+	  }
+#topmost{
+      background: #900;
+      opacity: 0.8;
+}
+#top-most{
+      height: 139px;
+}
+#topmenu{
+      background: #900;
+      opacity: 0.8;
+      height: 51px;
+      border-radius: 0 0 20px 20px;
+}
+/*end section 1*/
